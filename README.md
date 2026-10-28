@@ -33,3 +33,7 @@ through the API when the plan has errors.
 ## Week 8: OSPF by Hand, Then Automated
 What I did: configured OSPF manually, ran a provided playbook that automated it,
 and wrote my own playbook to back up the configs. What I learned: how to create a playbook and use Ansible
+
+## Week 9: Build a Network and Automate It End to End What I built: a CML topology (2 routers, a
+switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure
+loopbacks, EIGRP, a login banner, and to back up all devices
