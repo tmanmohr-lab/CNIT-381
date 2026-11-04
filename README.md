@@ -37,3 +37,7 @@ and wrote my own playbook to back up the configs. What I learned: how to create 
 ## Week 9: Build a Network and Automate It End to End What I built: a CML topology (2 routers, a
 switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure
 loopbacks, EIGRP, a login banner, and to back up all devices
+
+## Week 10: Ansible on a CSR with the DEVASC VM
+What I did: moved from CML to the DEVASC VM and a CSR1000v, set up the hosts
+inventory and ansible.cfg, backed up the config, and configured IPv6.
