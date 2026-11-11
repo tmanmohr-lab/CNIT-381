@@ -41,3 +41,7 @@ loopbacks, EIGRP, a login banner, and to back up all devices
 ## Week 10: Ansible on a CSR with the DEVASC VM
 What I did: moved from CML to the DEVASC VM and a CSR1000v, set up the hosts
 inventory and ansible.cfg, backed up the config, and configured IPv6.
+
+## Week 11: RESTCONF on a 3650 Switch
+What I did: enabled RESTCONF on the switch, then read and changed its config
+with Postman and a Python script.
